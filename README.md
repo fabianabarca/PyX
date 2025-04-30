@@ -1,4 +1,4 @@
-# `python` - Modelos Probabilísticos de Señales y Sistemas
+# `PyX` - Modelos Probabilísticos de Señales y Sistemas
 
 Estos son archivos ejecutables tipo *notebook* de Jupyter, que llamaremos **PyX** (pronunciado "pics"), y que acompañan los temas del curso. Son una introducción a Python como lenguaje de programación y la presentación de algunas de sus herramientas más importantes para utilizar en problemas relacionados con la probabilidad, la estadística y el análisis de datos.
 
@@ -17,7 +17,7 @@ Estos son los temas cubiertos por cada archivo (*trabajo en progreso*).
 | `Py4`  | Funciones estadísticas | Stats de SciPy |
 | `Py5`  | Curvas de ajuste y modelos estadísticos para datos | Fitter |
 | `Py6`  | Intercambio de datos con servicios web | Requests |
-| `Py7`  | Graficación estadística  | Seaborn |
+| `Py7`  | Graficación estadística  | Seaborn, Plotly |
 
 Pendientes:
 
@@ -25,7 +25,7 @@ Pendientes:
 | ------ | ---- | ---- |
 | `Py8`  | Bases de datos SQL con Python | SQLite |
 | `Py9`  | Principios de programación orientada a objetos |  |
-| `Py10` | Documentación de código | Sphinx |
+| `Py10` | Documentación de código | Material for MkDocs |
 
 ## Algunos consejos de la *Guía de estilo para código de Python* (PEP 8)
 
