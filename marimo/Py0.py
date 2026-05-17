@@ -106,8 +106,8 @@ def _(mo):
 
 @app.cell
 def _():
-    number = 12
-    string = 'hola'
+    number = 15
+    string = 'olá!'
     n1, n2, n3 = (1, 2, 3)
     print(number, string, n1 + n2 + n3)
     return
